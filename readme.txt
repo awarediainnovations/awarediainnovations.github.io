@@ -1,1 +1,1 @@
-NGO website code for Awaredia Foundation
+NGO website code for Awaredia Innovations
